@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "01c75de91046e372",
+        "id": "9f5d2c9ec30ae98e",
         "type": "tabs",
         "children": [
           {
-            "id": "06200f10794cfeb1",
+            "id": "be507255848869e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMAT.md",
+                "file": "00 Inbox/记录链路与记录方式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FORMAT"
-            }
-          },
-          {
-            "id": "329fbfbc36e05433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AGENTS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "记录链路与记录方式"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,14 +183,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "329fbfbc36e05433",
+  "active": "be507255848869e4",
   "lastOpenFiles": [
-    "02 Knowledge/自我建立/公办.md",
+    "00 Inbox/问题清单.md",
     "AGENTS.md",
+    "00 Inbox/成长方向待整理.md",
+    "98 Records/记录.md",
+    "00 Inbox/记录链路与记录方式.md",
     "FORMAT.md",
+    "02 Knowledge/自我建立/公办.md",
     "01 Projects/DbuuuuuBlog.md",
     "Pasted image 20260613144328.png",
-    "00 Inbox/记录链路与记录方式.md",
     "三分钟处理方法.md",
     "AI 知识库与工作流记录.md",
     "未命名.canvas",
@@ -216,14 +204,12 @@
     "00 Inbox/Design Prompt Summary.md",
     "00 Inbox/Claude Code 指南.md",
     "00 Inbox/BbuuuuBlog 规则设置.md",
-    "00 Inbox/问题清单.md",
     "Vibe Coding/缩短AI回答.md",
     "Vibe Coding/code-simplifier.md",
     "Vibe Coding/Prompt.md",
     "工作、日常/未命名.md",
     "03 Thinking",
     "04 Resources",
-    "98 Records/记录.md",
     "工作、日常/2026.06.15-2026.06.21工作日志.md",
     "工作、日常/2026.06.08-2026.06.14 工作日志.md",
     "01 Project/未命名.md",
