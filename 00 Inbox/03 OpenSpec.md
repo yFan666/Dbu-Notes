@@ -73,3 +73,6 @@ OpenSpec 是项目迭代上下文的结构化记录工具，用来保存：
 ```
 只要一个任务需要跨人、跨时间、跨 thread 恢复上下文，就应该用 OpenSpec 记录。
 ```
+
+
+文章：`https://github.com/ForceInjection/OpenSpec-practise/blob/main/docs/openspec-ai-workflow-analysis.md`

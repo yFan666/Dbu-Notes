@@ -1,5 +1,5 @@
 ---
-name: evidence-bounded-project-workflow
+name: dbu-evidence-bounded-project-workflow
 description: Use this skill whenever the user asks to implement, review, refine, debug, or document a project requirement with constraints such as "最小范围", "参考页面", "根据文档", "不要捏造", "不确定先问", "检查闭环", "丢给研发", "每日复盘", or "跨线程接续". This skill keeps work evidence-bounded: it locks scope before action, uses docs/pages/code as sources of truth, avoids invented fields or business logic, and finishes with a concise verification and next-step summary.
 ---
 
