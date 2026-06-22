@@ -68,7 +68,7 @@
 想法判断标准：
 - 近期要做 → `01 Projects`
 - 可复用认知 → `02 Knowledge`
-- 只是资料入口 → `04 Resources`
+- 只是资料入口 → `02 Knowledge/Resources`
 - 暂不做 → `99 Archive`
 
 完成标准：每条想法都有状态；每周至少清理一次 Inbox；重要想法不会长期停留在 Inbox。
