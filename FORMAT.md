@@ -1,1 +1,1 @@
-![[Pasted image 20260611144758.png]]
+![[assets/Pasted-image-20260611144758.png]]
