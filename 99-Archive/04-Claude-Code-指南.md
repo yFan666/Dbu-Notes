@@ -1,10 +1,10 @@
 ---
-type: inbox
-status: todo
+type: archive
+status: archived
 area: 临时收集
-review: weekly
+review: no
 created: 2026-06-15
-updated: 2026-06-23
+updated: 2026-06-24
 ---
 
 ## 问题所在

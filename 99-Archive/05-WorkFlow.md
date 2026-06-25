@@ -1,10 +1,10 @@
 ---
-type: inbox
-status: todo
+type: archive
+status: archived
 area: 临时收集
-review: weekly
+review: no
 created: 2026-06-16
-updated: 2026-06-23
+updated: 2026-06-24
 ---
 
 1. 定义 `AGENTS.md` ，可以在 Reddit 中找到大量帖子

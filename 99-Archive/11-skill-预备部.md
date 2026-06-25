@@ -1,12 +1,12 @@
 ---
-status: todo
+status: archived
 area: 临时收集
-review: weekly
-type: skill
+review: no
+type: archive
 domain: 规则
 source: 复盘
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-06-24
 tags:
   - skill
 related:
